@@ -13,3 +13,5 @@ tokio = { version = "1.37.0", features = ["full"] }
 ndarray = "0.15.6"
 num-traits = "0.2.18"
 approx = "0.5.1"
+rand = "0.8.5"
+rand_distr = "0.4.3"
